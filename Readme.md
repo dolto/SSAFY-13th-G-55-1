@@ -5,21 +5,14 @@
 - 코드 이름은** 이름.확장자**로 해주시면 됩니다.  (ex) 홍도완.rs)
 
 ## 문제 추가 예시
-- 상단의 문제디렉토리를 만들고, 그 안에 problum.md 와 예제의input.txt를 첨부한다.
-- ex) inoutput.txt
+- 상단의 문제디렉토리를 만들고, 그 안에 problum.md를 첨부한다.
+- 사이트에 문제가 있기 때문에 링크만 남겨도 좋을 듯 싶습니다.
+- ex)
 ```text
-# 예제1
-5 2
+problum.md
 
-# 결과
-2
+link: https://www.acmicpc.net/problem/1120
 
-# 예제2
-6 2
-
-#결과
-8
-  
 ```
 - 추가적으로 hint<n>.txt를 만들어, 문제풀이가 어려운 학우를 위해서 길잡이를 해줄 수 있습니다.
 - ex) hint1.txt
