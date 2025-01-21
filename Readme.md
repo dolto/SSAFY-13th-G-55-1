@@ -5,11 +5,11 @@
 - 코드 이름은** 이름.확장자**로 해주시면 됩니다.  (ex) 홍도완.rs)
 
 ## 문제 추가 예시
-- 상단의 문제디렉토리를 만들고, 그 안에 problum.md를 첨부한다.
+- 상단의 문제디렉토리를 만들고, 그 안에 problem.md를 첨부한다.
 - 사이트에 문제가 있기 때문에 링크만 남겨도 좋을 듯 싶습니다.
 - ex)
 ```text
-problum.md
+problem.md
 
 link: https://www.acmicpc.net/problem/1120
 
