@@ -2,21 +2,77 @@
 
 ## 참여자
 <table>
-    <tr height="140px">
-        <td align="center" width="130px">
-            <a href="https://github.com/Brylimo"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/43398206?v=4"/></a>
-            <br />
-            <a href="https://github.com/dolto">홍도완</a>
-        </td>
+    <tr>
+        <tr height="140px">
+            <td align="center" width="130px">
+                <a href="https://github.com/Brylimo"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/43398206?v=4"/></a>
+                <br />
+                <a href="https://github.com/dolto">홍도완</a>
+            </td>
+        </tr>
+        <tr height="50px">
+          <td>
+            <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=dolto" />
+                <br />
+                <a href="https://www.acmicpc.net/user/dolto">Baekjoon</a>
+                <br />
+                <a href="https://solved.ac/profile/dolto">solved.ac</a>
+          </td>
+        </tr>
     </tr>
-    <tr height="50px">
-      <td>
-        <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=dolto" />
-            <br />
-            <a href="https://www.acmicpc.net/user/dolto">Baekjoon</a>
-            <br />
-            <a href="https://solved.ac/profile/dolto">solved.ac</a>
-      </td>
+    <tr>
+        <tr height="140px">
+            <td align="center" width="130px">
+                <a href="https://github.com/Brylimo"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/59717513?v=4"/></a>
+                <br />
+                <a href="https://github.com/babobabo112">김민지</a>
+            </td>
+        </tr>
+        <tr height="50px">
+          <td>
+            <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=[백준 아이디를 넣어주세요!!]" />
+                <br />
+                <a href="https://www.acmicpc.net/user/[백준 아이디를 넣어주세요!!]">Baekjoon</a>
+                <br />
+                <a href="https://solved.ac/profile/[백준 아이디를 넣어주세요!!]">solved.ac</a>
+          </td>
+        </tr>
+    </tr>
+    <tr>
+        <tr height="140px">
+            <td align="center" width="130px">
+                <a href="https://github.com/Brylimo"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/83206160?v=4"/></a>
+                <br />
+                <a href="https://github.com/Park-JuH">박주혁</a>
+            </td>
+        </tr>
+        <tr height="50px">
+          <td>
+            <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=[백준 아이디를 넣어주세요!!]" />
+                <br />
+                <a href="https://www.acmicpc.net/user/[백준 아이디를 넣어주세요!!]">Baekjoon</a>
+                <br />
+                <a href="https://solved.ac/profile/[백준 아이디를 넣어주세요!!]">solved.ac</a>
+          </td>
+        </tr>
+    </tr>
+    <tr>
+        <tr height="140px">
+            <td align="center" width="130px">
+                <a href="https://github.com/Brylimo"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/143603126?v=4"/></a>
+                <br />
+                <a href="https://github.com/skc-98">송기창</a>
+            </td>
+        </tr>
+        <tr height="50px">
+          <td>
+            <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=[백준 아이디를 넣어주세요!!]" />
+                <br />
+                <a href="https://www.acmicpc.net/user/[백준 아이디를 넣어주세요!!]">Baekjoon</a>
+                <br />
+                <a href="https://solved.ac/profile/[백준 아이디를 넣어주세요!!]">solved.ac</a>
+          </td>
+        </tr>
     </tr>
 </table>
 
