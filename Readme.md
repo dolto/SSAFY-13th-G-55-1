@@ -23,11 +23,11 @@
             <br />
             <a href="https://github.com/babobabo112">김민지</a>
             <br />
-            <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=[백준 아이디를 넣어주세요!!]" />
+            <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=imp9221" />
             <br />
-            <a href="https://www.acmicpc.net/user/[백준 아이디를 넣어주세요!!]">Baekjoon</a>
+            <a href="https://www.acmicpc.net/user/imp9221">Baekjoon</a>
             <br />
-            <a href="https://solved.ac/profile/[백준 아이디를 넣어주세요!!]">solved.ac</a>
+            <a href="https://solved.ac/profile/imp9221">solved.ac</a>
         </td>
         <td align="center" width="130px">
             <a href="https://github.com/Park-JuH">
