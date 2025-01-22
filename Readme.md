@@ -4,50 +4,6 @@
 <table>
     <tr height="140px">
         <td align="center" width="130px">
-            <a href="https://github.com/Brylimo"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/48869794?v=4"/></a>
-            <br />
-            <a href="https://github.com/Brylimo">홍도완</a>
-        </td>
-    </tr>
-    <tr height="50px">
-      <td>
-        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tourist0302" />
-            <br />
-            <a href="https://www.acmicpc.net/user/tourist0302">Baekjoon</a>
-            <br />
-            <a href="https://solved.ac/profile/tourist0302">solved.ac</a>
-      </td>
-    </tr>
-</table>
-<table>
-    <tr height="140px">
-        <td align="center" width="130px">
-            <a href="https://github.com/Brylimo"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/48869794?v=4"/></a>
-            <br />
-            <a href="https://github.com/Brylimo">홍도완</a>
-        </td>
-    </tr>
-    <tr height="50px">
-      <td>
-        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tourist0302" />
-            <br />
-            <a href="https://www.acmicpc.net/user/tourist0302">Baekjoon</a>
-            <br />
-            <a href="https://solved.ac/profile/tourist0302">solved.ac</a>
-      </td>
-    </tr>
-</table>
-<table>
-    <tr height="140px">
-        <td align="center" width="130px">
-            <a href="https://github.com/Brylimo"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/48869794?v=4"/></a>
-            <br />
-            <a href="https://github.com/Brylimo">홍도완 광주 13기 스터디 레포지토리입니다!
-
-## 참여자
-<table>
-    <tr height="140px">
-        <td align="center" width="130px">
             <a href="https://github.com/Brylimo"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/43398206?v=4"/></a>
             <br />
             <a href="https://github.com/dolto">홍도완</a>
