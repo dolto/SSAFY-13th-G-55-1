@@ -49,7 +49,7 @@
             <br />
             <a href="https://github.com/skc-98">송기창</a>
             <br />
-            <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=skc-98" />
+            <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=richkc2006" />
             <br />
             <a href="https://www.acmicpc.net/user/[백준 아이디를 넣어주세요!!]">Baekjoon</a>
             <br />
