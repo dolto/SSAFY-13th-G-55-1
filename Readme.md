@@ -1,5 +1,69 @@
 # 광주 13기 스터디 레포지토리입니다!
 
+## 참여자
+<table>
+    <tr height="140px">
+        <td align="center" width="130px">
+            <a href="https://github.com/Brylimo"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/48869794?v=4"/></a>
+            <br />
+            <a href="https://github.com/Brylimo">홍도완</a>
+        </td>
+    </tr>
+    <tr height="50px">
+      <td>
+        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tourist0302" />
+            <br />
+            <a href="https://www.acmicpc.net/user/tourist0302">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/tourist0302">solved.ac</a>
+      </td>
+    </tr>
+</table>
+<table>
+    <tr height="140px">
+        <td align="center" width="130px">
+            <a href="https://github.com/Brylimo"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/48869794?v=4"/></a>
+            <br />
+            <a href="https://github.com/Brylimo">홍도완</a>
+        </td>
+    </tr>
+    <tr height="50px">
+      <td>
+        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tourist0302" />
+            <br />
+            <a href="https://www.acmicpc.net/user/tourist0302">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/tourist0302">solved.ac</a>
+      </td>
+    </tr>
+</table>
+<table>
+    <tr height="140px">
+        <td align="center" width="130px">
+            <a href="https://github.com/Brylimo"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/48869794?v=4"/></a>
+            <br />
+            <a href="https://github.com/Brylimo">홍도완 광주 13기 스터디 레포지토리입니다!
+
+## 참여자
+<table>
+    <tr height="140px">
+        <td align="center" width="130px">
+            <a href="https://github.com/Brylimo"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/43398206?v=4"/></a>
+            <br />
+            <a href="https://github.com/dolto">홍도완</a>
+        </td>
+    </tr>
+    <tr height="50px">
+      <td>
+        <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=dolto" />
+            <br />
+            <a href="https://www.acmicpc.net/user/dolto">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/dolto">solved.ac</a>
+      </td>
+    </tr>
+</table>
+----
 ## 레포 규칙
 - **root/문제출처-문제번호** (ex) **beakjoon-1000** ex2) **swea-1000**) 디렉토리 안에 코드를 넣습니다.
 - 코드 이름은**이름.확장자**로 해주시면 됩니다.  (ex) 홍도완.rs)
