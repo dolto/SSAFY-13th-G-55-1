@@ -51,9 +51,9 @@
             <br />
             <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=richkc2006" />
             <br />
-            <a href="https://www.acmicpc.net/user/[백준 아이디를 넣어주세요!!]">Baekjoon</a>
+            <a href="https://www.acmicpc.net/user/richkc2006">Baekjoon</a>
             <br />
-            <a href="https://solved.ac/profile/[백준 아이디를 넣어주세요!!]">solved.ac</a>
+            <a href="https://solved.ac/profile/richkc2006">solved.ac</a>
         </td>
     </tr>
 </table>
