@@ -36,11 +36,11 @@
             <br />
             <a href="https://github.com/Park-JuH">박주혁</a>
             <br />
-            <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=[백준 아이디를 넣어주세요!!]" />
+            <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=Park-JuH" />
             <br />
-            <a href="https://www.acmicpc.net/user/[백준 아이디를 넣어주세요!!]">Baekjoon</a>
+            <a href="https://www.acmicpc.net/user/Park-JuH">Baekjoon</a>
             <br />
-            <a href="https://solved.ac/profile/[백준 아이디를 넣어주세요!!]">solved.ac</a>
+            <a href="https://solved.ac/profile/Park-JuH">solved.ac</a>
         </td>
         <td align="center" width="130px">
             <a href="https://github.com/skc-98">
