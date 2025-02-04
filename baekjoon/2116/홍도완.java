@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
 
-public class Main {
+public class 홍도완 {
 	/// 아이디어
 	/// 각 주사위의 아래와 위를 제외한 나머지 수를 선택이 가능하며, 첫번째 아래가 정해지면, 그 이후의 아래는 자동으로 고르 수 있다.
 	/// 첫 주사위의 아래를 1~6까지 하면 된다.
