@@ -30,7 +30,7 @@
             <br />
             <a href="https://solved.ac/profile/imp9221">solved.ac</a>
         </td>
-        <td align="center" width="130px">
+        <!-- <td align="center" width="130px">
             <a href="https://github.com/Park-JuH">
                 <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/83206160?v=4"/>
             </a>
@@ -42,7 +42,7 @@
             <a href="https://www.acmicpc.net/user/think5213">Baekjoon</a>
             <br />
             <a href="https://solved.ac/profile/think5213">solved.ac</a>
-        </td>
+        </td> -->
         <td align="center" width="130px">
             <a href="https://github.com/skc-98">
                 <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/143603126?v=4"/>
@@ -55,6 +55,19 @@
             <a href="https://www.acmicpc.net/user/richkc2006">Baekjoon</a>
             <br />
             <a href="https://solved.ac/profile/richkc2006">solved.ac</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/skc-98">
+                <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/123109572?v=4"/>
+            </a>
+            <br />
+            <a href="https://github.com/hobinBae">배호빈</a>
+            <br />
+            <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=qoghqls" />
+            <br />
+            <a href="https://www.acmicpc.net/user/qoghqls">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/qoghqls">solved.ac</a>
         </td>
     </tr>
 </table>
