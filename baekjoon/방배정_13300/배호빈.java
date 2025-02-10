@@ -2,6 +2,7 @@ import java.util.*;
 import java.io.*;
 public class Main_13300 {
 	public static void main(String[] args) throws IOException{
+		//아이디어 : 여학생과 남학생을 맵으로 각각 받아 계산을 하였습니다.
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = new StringTokenizer(br.readLine());
 		
