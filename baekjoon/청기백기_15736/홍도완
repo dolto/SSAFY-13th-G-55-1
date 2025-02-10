@@ -1,0 +1,38 @@
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
+import java.util.StringTokenizer;
+
+public class 홍도완 {
+	/// 아이디어
+	/// 100
+	/// 100 10000
+	/// 100 10000 1000000
+	/// 이런식으로 1 다음에 0이 2부터 시작해서 0의 개수가 두개씩 늘어나는 형태가 된다.
+	static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+	static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+	static StringTokenizer st;
+
+	public static void main(String[] args) throws IOException {
+		int n = Integer.parseInt(br.readLine().trim());
+		int answer = 0;
+		int step = 2;
+		int k = 0;
+		
+		while(true) {	
+			k += 1;
+			if(k <= n)
+				answer += 1;
+			else
+				break;
+			k += step;
+			step += 2;
+		}
+		bw.write(String.format("%d", answer));
+		br.close();
+		bw.flush();
+		bw.close();
+	}
+}
